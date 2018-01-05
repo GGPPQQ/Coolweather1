@@ -6,8 +6,6 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.coolweather.util.WeatherActivity;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
